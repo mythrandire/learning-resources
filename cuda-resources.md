@@ -14,4 +14,6 @@
 
 8. [professional-cuda-c-programming](https://github.com/deeperlearning/professional-cuda-c-programming): Self-explanatory.
 
-9. 
+9. [cudahandbook](https://github.com/ArchaeaSoftware/cudahandbook): Source code that accompanies The CUDA Handbook.
+
+10. [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA): This is a list of useful libraries and resources for CUDA development.
